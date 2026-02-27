@@ -1,4 +1,4 @@
-# 📩 Email Processor
+# 📩 PDF Email Processor
 
 O **Email Processor** é um sistema automatizado para ler emails, baixar anexos (PDF/XML) e organizar os arquivos em pastas estruturadas com base nas informações extraídas dos documentos.
 
